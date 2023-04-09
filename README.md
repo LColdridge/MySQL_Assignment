@@ -12,3 +12,4 @@ For this project, I imported the required SQL script into MySQL Workbench, creat
 - Create an EER diagram
 
 # EER Diagram:
+![EER Diagram](https://user-images.githubusercontent.com/124378648/230781730-6b641f49-d9ca-4a14-b3bf-e59dfcde0550.png)
