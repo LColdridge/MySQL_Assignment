@@ -1,5 +1,5 @@
 # MySQL Assignment
-For this project, I imported the required SQL script into MySQL Workbench, created datasbases and executed a number of queries. I ended with creating an EER diagram and describing the relationship between tables, Primary and Foreign keys.
+For this project, I was tasked to import the required SQL script into MySQL Workbench, created datasbases and executed a number of queries. I ended with creating an EER diagram and describing the relationship between tables, Primary and Foreign keys.
 
 # Data:
 'create-databases'
